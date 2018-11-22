@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-enforce-react-hooks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Just to make absolutely sure that everyone undestand how great are hooks",
   "keywords": [
     "eslint",
