@@ -33,7 +33,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "enforce-react-hooks/rule-name": 2
+        "enforce-react-hooks/enforce-react-hooks": 2
     }
 }
 ```
